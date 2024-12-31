@@ -1,0 +1,1 @@
+This repository demonstrates a subtle bug related to the post-increment operator in C. The code uses printf to print the value of a variable before and after the post-increment operator is applied, leading to unexpected output. The solution provides a clear explanation and correction.
